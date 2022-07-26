@@ -9,4 +9,4 @@ const countdown = function (a, b) {
         }
     }, 1000);
   }
-  sum(10, 0);
+  countdown(10, 0);
